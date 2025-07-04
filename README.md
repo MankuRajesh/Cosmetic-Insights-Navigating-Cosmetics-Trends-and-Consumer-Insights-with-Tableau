@@ -4,8 +4,10 @@ This project focuses on analyzing cosmetic product data to uncover key trends, b
 
 ##Download the Dataset used 
 - <a  href="https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Cosmetic%20Dataset.csv">Dataset</a>
+
 ##Overview of Project in ppt format
 - <a  href="https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Cosmetic%20Insight%20Navigating%20Cosmetic%20Trends%20and%20Consumer%20Insights%20with%20Tableau.pptx ">Story of the Project</a>
+
 ##Dashboard-1
 - <a  href="https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Dashboard%201%20-%20Product%20Ranking%20and%20Detailed%20Analysis.jpg ">Dashboard-1</a>
 
@@ -13,7 +15,7 @@ This project focuses on analyzing cosmetic product data to uncover key trends, b
 - <a  href="https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Dsasboard%202%20-%20Product%20Suitability%20Overview.jpg ">Dashboard-2</a>
 
 ##Top Brands
-- <a  href=" https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Top%20Brands.jpg">Top Brands</a>
+- <a   href="https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Top%20Brands.jpg">Top Brands</a>
 
 ##Label Count
 - <a  href="https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Label%20Count.jpg ">Label Count</a>

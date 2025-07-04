@@ -30,7 +30,7 @@ This project focuses on analyzing cosmetic product data to uncover key trends, b
 - <a  href=" https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Dry%20Skin%20Suitability.jpg">Dry Skin Suitability</a>
 
 ##Oily Skin Suitability
-- <a  href="https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Oily%20Skin%20Suitability.jpg ">Oily Skin Suitability</a>
+- <a  href=" https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Oily%20Skin%20Suitability.jpg">Oily Skin Suitability</a>
 
 ##Brand Vs Ranking
 - <a  href="https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Brand%20Vs%20Ranking.jpg ">Brand Vs Ranking</a>

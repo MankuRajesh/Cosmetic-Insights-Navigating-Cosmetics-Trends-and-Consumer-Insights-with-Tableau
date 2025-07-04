@@ -42,6 +42,7 @@ This project focuses on analyzing cosmetic product data to uncover key trends, b
 - <a  href="https://github.com/MankuRajesh/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau/blob/main/Normal%20Skin%20Suitability.jpg">Normal Skin Suitability</a>
 
 ##Project Insights
+
 1️⃣ Top Performing Brands:
 Clinique, Murad, Sephora Collection, Shiseido, and Origins emerged as the top brands with the highest product count, indicating strong market presence.
 
@@ -79,6 +80,7 @@ Product labels generally maintain strong average performance in the 4.0+ range.
 
 
 ##Conclusion
+
 After analyzing the cosmetics product dataset through interactive Tableau dashboards, several valuable insights were identified:
 
 Clinique, Murad, and Sephora Collection emerged as the top brands with the highest number of products.
